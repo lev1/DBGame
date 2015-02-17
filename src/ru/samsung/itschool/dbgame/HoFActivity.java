@@ -1,8 +1,6 @@
-package ru.samsung.itschool.bdgame;
+package ru.samsung.itschool.dbgame;
 
 import java.util.ArrayList;
-
-import ru.samsung.itschool.mydraw.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;

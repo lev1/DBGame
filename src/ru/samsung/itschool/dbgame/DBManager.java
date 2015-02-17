@@ -1,4 +1,4 @@
-package ru.samsung.itschool.bdgame;
+package ru.samsung.itschool.dbgame;
 
 import java.io.File;
 import java.util.ArrayList;

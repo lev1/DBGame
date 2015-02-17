@@ -1,6 +1,4 @@
-package ru.samsung.itschool.bdgame;
-
-import ru.samsung.itschool.mydraw.R;
+package ru.samsung.itschool.dbgame;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
