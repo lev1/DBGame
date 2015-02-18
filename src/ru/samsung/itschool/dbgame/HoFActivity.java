@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class HoFActivity extends Activity {
 
 	private DBManager dbManager;
-	
+	//111
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
